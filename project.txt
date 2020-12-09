@@ -3,8 +3,20 @@ Height          :44m
 Diameter        :3m
 Number of Stages:5
 Lift of mass    :350tonnes(XL)
+
 fourth stage    :ps4
 the ps4 is the uppermost stage of pslv,comprising of two earth storable liquid engines.
 engine          :2*ps-4
 fuel           :mmh+mon
 max.thrust      :7.6*2KN
+
+Third stage    :ps3
+the ps3 is the solid rocket motor that provides the upper stages high thrust after the atmospheric phase of the launch.
+fuel           :HTPB
+max.thrust      :240KN
+
+Second stage    :ps2
+PSLV uses an earth sortable liquid rocket engine for its second stage, know as the Vikas engine,developed by liquid Propulsion System Centre
+engine          :Vikas
+fuel           :UDMH+N204
+max.thrust      :799KN
