@@ -1,0 +1,5 @@
+base weight
+Height          :44m
+Diameter        :3m
+Number of Stages:5
+Lift of mass    :350tonnes(XL)
