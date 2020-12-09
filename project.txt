@@ -6,5 +6,5 @@ Lift of mass    :350tonnes(XL)
 fourth stage    :ps4
 the ps4 is the uppermost stage of pslv,comprising of two earth storable liquid engines.
 engine          :2*ps-4
-fuel            :mmh+mon
+fuel           :mmh+mon
 max.thrust      :7.6*2KN
